@@ -1,3 +1,10 @@
-![alt text](https://i.imgur.com/FBiipxT.jpeg)
-[![Brendan's Github Stats](https://github-readme-stats.vercel.app/api?username=bfloyd14&theme=dark)](https://github.com/bfloyd14/github-readme-stats) [![Brendan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bfloyd14&theme=dark)](https://github.com/bfloyd14/github-readme-stats)
+<div align='center'>
+  <p>
+  <img align='center' src='https://i.imgur.com/FBiipxT.jpg' style='width:300px'>
+  <p>  
+  <img align='center' src='https://github-readme-stats.vercel.app/api?username=bfloyd14&theme=dark' height='285px'/>
+  <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=bfloyd14&theme=dark'/>
+  </p>
+</div>
+
 
